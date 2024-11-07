@@ -32,6 +32,9 @@ Make sure you have Python 3.x installed. You’ll also need the following packag
     python main.py
     ```
 
+## Music Attribution
+This game features music from the *Undertale* OST, composed by Toby Fox. All music in this project is used purely for fan purposes. I do not own the music and it is credited to Toby Fox, the official composer and owner of the *Undertale* soundtrack.
+
 ## How to Contribute
 Feel free to fork this project, contribute improvements, or report issues. Pull requests are welcome!
 
